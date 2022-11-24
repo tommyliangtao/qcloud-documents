@@ -39,4 +39,3 @@ pstree -p | wc -l
 ```shell
 sysctl -p
 ```
-
